@@ -17,7 +17,7 @@ Great for cleaning up messy folders like **Downloads** or project directories.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/file-organizer.git
+git clone https://github.com/erishbrylle/Bash-File-Organizer-Script
 cd file-organizer
 ```
 ### 2. Copy the .sh file to the target folder then run.
